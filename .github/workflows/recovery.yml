@@ -15,7 +15,7 @@ on:
 env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni -b twrp-10.0-deprecated
   DEVICE: cph2059
-  DT_LINK: https://github.com/N0Lu6k/Recovery-Builderop
+  DT_LINK: https://github.com/N0Lu6k/Recovery-Builderop_device_oppo_cph2059
   DT_PATH: device/oppo/cph2059
   TARGET: recoveryimage
   TZ: Asia/manila
